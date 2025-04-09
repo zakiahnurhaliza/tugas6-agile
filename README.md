@@ -1,2 +1,2 @@
 Driver : Ros
-Navigator : Zakiah dan Tiara
+Navigator : Zakiah
